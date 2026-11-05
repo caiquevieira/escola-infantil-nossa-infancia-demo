@@ -1,0 +1,28 @@
+# Escola Infantil Nossa Infância
+
+> Escola de educação infantil na Rua Victor Brecheret, 105 - Vila Yara, Osasco - SP, 06026-000. Do berçário à pré-escola, em período integral. Atendimento e agendamento de visitas pelo WhatsApp (11) 95855-4498.
+
+## Dados do negócio
+
+- Endereço: Rua Victor Brecheret, 105 - Vila Yara, Osasco - SP, 06026-000
+- Horário: segunda a sexta, das 7h às 19h
+- WhatsApp: (11) 95855-4498 (https://wa.me/5511958554498)
+- Avaliação no Google: 4,7, com 23 avaliações
+
+## Turmas e serviços
+
+- Berçário
+- Maternal
+- Pré-escola
+- Período integral
+- Alimentação
+- Adaptação acompanhada
+
+## Atividades
+
+- Inglês, Ballet, Culinária, Robótica, Judô e Cross Kids
+
+## Páginas
+
+- [Página inicial](https://{{DOMINIO}}/)
+- [Política de Privacidade](https://{{DOMINIO}}/politica-de-privacidade.html)
